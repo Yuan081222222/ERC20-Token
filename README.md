@@ -6,5 +6,5 @@ Using Solidity and JavaScript to build an ERC20 Token on Ethereum Sepolia Testne
 
 <h2>Source</h2>
 <a href="https://hardhat.org/">HardHat</a></br>
-<a href="https://sepolia.etherscan.io/">Etherscan(Sepolia)</a>
+<a href="https://sepolia.etherscan.io/">Etherscan(Sepolia)</a></br>
 <a href="https://docs.openzeppelin.com/contracts/4.x/">OpenZeppelin</a>
